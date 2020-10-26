@@ -1,0 +1,4 @@
+*.pem
+*.crl
+*.csr
+CA/notes

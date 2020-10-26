@@ -1,0 +1,2 @@
+openssl req -x509 -new -nodes -extensions v3_ca -subj '/O=Software AG/C=DE/CN=
+ThinEdgeCA' -key ca-key.pem -days 1024 -out ca-root.pem -sha512
